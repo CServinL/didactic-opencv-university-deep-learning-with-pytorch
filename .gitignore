@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ML model checkpoints and large binaries
+*.pt
+*.pth
+*.onnx
+
+# Archives / datasets
+*.zip
