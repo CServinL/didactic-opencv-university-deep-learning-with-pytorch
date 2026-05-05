@@ -1,0 +1,10 @@
+Dataset/
+Dataset.zip
+*.mp4
+*.pth
+runs/
+_coco_gt.json
+_coco_dt.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
